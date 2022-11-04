@@ -1,0 +1,62 @@
+
+
+.container{
+    width: 450px;
+    margin: 50px auto;
+}
+
+
+.text1{
+    background-color: rgb(211, 153, 250);
+    padding: 20px;
+    text-align: left;
+    border: 2px solid rgb(184, 49, 166);
+    margin: 50px auto 70px;
+    width: 320px;
+    font-weight: bold;
+    color: blue;
+}
+
+.padding{
+    font-weight: bold;
+}
+
+.відстань{
+    font-weight: bold;
+    color: red;
+}
+
+.Значення{
+    background-color: yellow;
+}
+
+.border{
+    font-weight: bold;
+}
+
+.margin{
+    font-weight: bold;
+}
+
+.порожній{
+    border: 1px dashed black;
+}
+
+.Межі{
+    font-weight: bold;
+}
+
+.text2{
+    padding: 0px 0px 50px 0px;
+}
+
+.text3{
+    
+}
+
+.textblue{
+    color: blue;
+    margin: 20px 50px;
+    padding: 0px 0px 0px 10px;
+    border-left: 2px solid red;
+}

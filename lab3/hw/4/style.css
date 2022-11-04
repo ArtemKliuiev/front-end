@@ -1,0 +1,27 @@
+table{
+    text-align: center;
+    background-color: black;
+    
+}
+
+tr:nth-child(2n){
+    background-color: white;
+    color: black;
+}
+
+tr:nth-child(2n-1){
+    background-color: black;
+    color: white;
+}
+
+tr:nth-child(2n+1) td:hover{
+    background-color: red;
+    height: 25px;
+    color: yellow;
+}
+
+tr:nth-child(2n) td:hover{
+    background-color: blue;
+    height: 25px;
+    color: white;
+}

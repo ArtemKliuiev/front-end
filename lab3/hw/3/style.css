@@ -1,0 +1,91 @@
+
+
+
+p:first-letter {
+    font-size: 130%;
+    color: red;
+  }
+
+
+p:first-child {
+  font-weight: bold;
+  
+}
+
+p{
+  color: green;
+}
+
+.texthover{
+  color: blue;
+}
+
+.text2{
+  color: rgb(177, 148, 18);
+}
+
+tr:hover{
+ background-color: red;
+}
+
+span:first-letter {
+  font-size: 130%;
+  color: red;
+}
+
+button{
+  background-color: chartreuse;
+  font-size: 1.2em;
+  border: none;
+  padding: 10px 10px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+
+
+table{
+  background-color: black;
+}
+
+tr{
+  background-color: white;
+}
+
+tr:hover{
+  height: 23px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+   color: green;
+}
+
+a:visited{
+  color: orange;
+}
+
+
+ .input{
+    
+ }
+ 
+ span{
+  color: green;
+}
+
+.divspan:first-letter {
+  font-size: 130%;
+  color: red;
+}
+
+input[type="checkbox"]:before{
+  background-color: red;
+  color: red;
+}
+input[type="checkbox"]:checked:after{
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGHRFWHRBdXRob3IAbWluZWNyYWZ0aW5mby5jb23fZidLAAAAk0lEQVQ4y2P4//8/AyUYwcAD+OzN/oMwshjRBoA0Gr8+DcbIhhBlAEyz+qZZ/7WPryHNAGTNMOxpJvo/w0/uP0kGgGwGaZbrKgfTGnLc/0nyAgiDbEY2BCRGdCDCnA2yGeYVog0Aae5MV4c7Gzk6CRqAbDM2w/EaQEgzXgPQnU2SAcTYjNMAYm3GaQCxNuM0gFwMAPUKd8XyBVDcAAAAAElFTkSuQmCC'), linear-gradient(135deg, #B1B6BE 0%,#FFF 100%);
+}

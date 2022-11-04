@@ -1,0 +1,62 @@
+@font-face{
+    font-family: RobotoBold;
+    src: url(./fonts/Roboto-Bold.ttf);
+}
+
+@font-face{
+    font-family: RobotoMediun;
+    src: url(./fonts/Roboto-Medium.ttf);
+}
+
+@font-face{
+    font-family: RobotoLight ;
+    src: url(./fonts/Roboto-Light.ttf);
+}
+
+.continer{
+    margin: 50px;
+}
+
+.CSS{
+    font-family: RobotoBold;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(108, 152, 247);
+    text-shadow: 2px 3px 5px black;
+    padding: 0px 0px 30px 5px;
+}
+
+.text1{
+    font-family: RobotoLight;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.sel{
+    font-family: RobotoLight;
+    background-color: rgb(248, 248, 248);
+    font-size: 15px;
+    padding: 20px 0px 10px 10px;
+    margin: 20px 0px 0px 0px;
+    width: 400px;
+    border: 1px solid darkgray;
+}
+
+.значение{
+    color: blue;
+    font-style: italic;
+}
+
+.значение2{
+    color: blue;
+    font-style: italic;
+}
+
+.text2{
+    padding: 20px 0px;
+    font-family: RobotoLight;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 40px
+}

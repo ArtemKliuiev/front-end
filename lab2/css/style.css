@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+}
+
+li{
+    color: red;
+    text-align: right;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.mystyle{
+  color: blue;  
+}
+
+#myli{
+    color: green;
+}
+table{
+    text-align: center;
+}

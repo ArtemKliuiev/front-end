@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+}
+
+.container{
+    width: 600px;
+    margin: 50px auto;
+}
+
+
+.first{
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+    /* border: 1px solid red; */
+    border-left: 3px dashed red;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px gray;
+    background-image: url("https://img.freepik.com/foto-gratis/disparo-gran-angular-solo-arbol-que-crece-cielo-nublado-puesta-sol-rodeada-cesped_181624-22807.jpg?w=2000");
+}
+
+
+
+
+
+
+
+.down{
+    margin-top: 500px;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: blue;
+}
+
+li{
+    margin: 5px;
+    padding: 5px;
+}
+/* li:nth-child(3n){
+    background-color: gray;
+} */
+li:first-child{
+    background-color: gray;
+}
+
+tr:nth-child(2n){
+    background-color: blue;
+    color: white;
+}
+
+li:hover{
+    background-color: green;
+}
+
+tr:nth-child(2n) td:hover{
+    background-color: green;
+}
+tr:nth-child(2n+1) td:hover{
+    background-color: gray;
+}
+
+tr:hover{
+    background-color: red;
+    height: 30px;
+}
